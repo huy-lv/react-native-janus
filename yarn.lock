@@ -4988,13 +4988,12 @@ react-native-vector-icons@^4.4.2:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-"react-native-webrtc@git+https://github.com/atyenoria/react-native-webrtc.git":
-  version "1.63.0"
-  resolved "git+https://github.com/atyenoria/react-native-webrtc.git#62a0c33a109a059bc28bcf7ee08fa9cfe8e53e29"
+"react-native-webrtc@git+https://github.com/atyenoria/react-native-webrtc.git#bd4a7579227204973d7598cc568210f34675f540":
+  version "0.6.2"
+  resolved "git+https://github.com/atyenoria/react-native-webrtc.git#bd4a7579227204973d7598cc568210f34675f540"
   dependencies:
     base64-js "^1.1.2"
     event-target-shim "^1.0.5"
-    prop-types "^15.5.10"
 
 react-native@^0.57.8:
   version "0.57.8"
